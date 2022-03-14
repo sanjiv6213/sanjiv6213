@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjiv6213
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning R language
+- 🌱 I’m currently learning 
 - 📫 Reach me using sanjivs2406@gmail.com
 
 <!---
